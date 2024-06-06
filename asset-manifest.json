@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Pagina-InfoRuedas/static/css/main.e8141aaf.css",
+    "main.js": "/Pagina-InfoRuedas/static/js/main.0113eb69.js",
+    "static/media/img-2.jpg": "/Pagina-InfoRuedas/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
+    "static/media/img-1.jpg": "/Pagina-InfoRuedas/static/media/img-1.53f4843759ebec256cb9.jpg",
+    "static/media/img-8.jpg": "/Pagina-InfoRuedas/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
+    "index.html": "/Pagina-InfoRuedas/index.html",
+    "main.e8141aaf.css.map": "/Pagina-InfoRuedas/static/css/main.e8141aaf.css.map",
+    "main.0113eb69.js.map": "/Pagina-InfoRuedas/static/js/main.0113eb69.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8141aaf.css",
+    "static/js/main.0113eb69.js"
+  ]
+}
