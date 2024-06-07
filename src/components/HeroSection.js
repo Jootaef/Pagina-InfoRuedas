@@ -18,7 +18,7 @@ function HeroSection() {
           buttonStyle='btn--outline'
           buttonSize='btn--large'
         >
-          Comparar Vehículos
+          Analizar Vehículos
         </Button>
         <Button
           className='btns'
