@@ -1,7 +1,6 @@
 import React from 'react';
 import './Cards.css';
 import CardItem from './CardItem';
-
 function Cards() {
   return (
     <div className='cards'>
@@ -10,7 +9,7 @@ function Cards() {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              src='images-autos/auto-1.JPG'
+              src='/images-autos/auto-1.JPG'
               text='Chevrolet Aveo Family - 2012'
               label='Chevrolet'
               path='/services'
