@@ -10,7 +10,7 @@ function Cards() {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              src='images-autos/auto-2.jpg'
+              src='images-autos/auto-1.JPG'
               text='Chevrolet Aveo Family - 2012'
               label='Chevrolet'
               path='/services'
@@ -24,7 +24,7 @@ function Cards() {
           </ul>
           <ul className='cards__items'>
             <CardItem
-              src='images-autos/auto-3.jpg'
+              src='images-autos/auto-3.JPG'
               text='Chevrolet D-Max High Power - 2024'
               label='Chevrolet'
               path='/services'
